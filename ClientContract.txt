@@ -1,0 +1,72 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+ 
+
+    This Independent Contractor Agreement (this "Agreement") is made effective as of _________ (“the Effective Date”), by and between _________________ (the "Company"), of _________________, _________________, _________________ _________________, and YOUR COMPANY. (the "Contractor"), of housenumber street St. NE, city, state, zip. In this Agreement, the party who is contracting to receive the services shall be referred to as "Company," and the party who will be providing the services shall be referred to as "Contractor".
+ 
+1.     DESCRIPTION OF SERVICES. Beginning on _________, Contractor will provide the following services (collectively, the "Services"): Software development. Full description should be here.
+
+  
+2.     PAYMENT FOR SERVICES. Company will pay compensation to Contractor for the Services. Payments will be made as follows (select one of the two methods of payment by putting an X below in front of the selected method):
+ 
+a. 	_______  Installments payments.  The parties agree that the price for Services shall be $______________ ("the Service Price") and the anticipated completion date for the Services shall be _______ ("Anticipated Completion Date").  The Parties understand that the Anticipated Completion Date is simply an estimation and that the actual completion date may be earlier or later than the Anticipated Completion Date.  Contractor shall ensure to the extent practicable that at least _____ worker hours are completed each week on the project. The Service Price shall be paid as follows:
+ 
+o   25% of the Service Price prior to Contractor beginning work;
+o   An additional 25% of the Service Price as soon as 25% of the time between the Effective Date and the Anticipated Completion Date has lapsed;
+o   An additional 25% of the Service Price as soon as 50% of the time between the Effective Date and the Anticipated Completion Date has lapsed;
+o   The final 25% of the Service Price immediately prior to delivery.
+ 
+- OR -
+ 
+b. 	________ Hourly billing.  $______ per hour billed every Friday.  Invoices shall be paid by the Company within 15 days of invoicing by contractor. 
+  
+3.     TERM/TERMINATION. This Agreement may be terminated by either party upon 14 days written notice to the other party.
+ 
+a. 	If the Company terminates the Agreement while proceeding under the "Installment payments" method of payment, the Company shall, within 15 days of termination, pay to Contractor the entire the Service Price minus any payments of the Service Price already made to Contractor. 
+ 
+b. 	Provided that the Company is not in default, if Contractor terminates the Agreement while proceeding under the "Installment payments" method of payment, Contractor:
+ 
+                                               i. 	shall be entitled to no additional payments and
+                                             ii. 	shall refund to the Company 25% of the Service Price.
+ 
+4.     RELATIONSHIP OF PARTIES. It is understood by the parties that Contractor is an independent contractor with respect to Company, and not an employee of the Company. Company will not provide fringe benefits, including health insurance benefits, paid vacation, or any other employee benefit, for the benefit of the Contractor.
+  
+5.     CONFIDENTIALITY. Contractor and its employees and/or independent contractors may have had access to proprietary, private, and/or otherwise confidential information ("Confidential Information") of the Company. Contractor and its employees and/or independent contractors will not at any time or in any manner, either directly or indirectly, use for the personal benefit of the Contractor, or divulge, disclose, or communicate in any manner any Confidential Information. Contractor and its employees and/or independent contractors will protect such information and treat the Confidential Information as strictly confidential. This provision shall continue to be effective after the termination of this Agreement. Upon termination of this Agreement, Contractor and its employees and/or independent contractors will return to Company all Confidential Information, whether physical or electronic, and other items that were used, created, or controlled by the Contractor during the term of this Agreement, as requested by the Company.
+  
+6.     INJURIES. Contractor acknowledges the Contractor's obligation to obtain appropriate insurance coverage for the benefit of the Contractor (and Contractor's employees, if any). Contractor waives any rights to recovery from the Company for any injuries that the Contractor (and/or Contractor's employees) may sustain while performing services under this Agreement and that are a result of the negligence of the Contractor or the Contractor's employees. Contractor will provide Company with a certificate naming Company as an additional insured party.
+  
+7.     DEFAULT. So long as the Company remains in default due to failure to pay any amounts owed to Contractor under paragraph 2 of this Agreement, Contractor shall have no obligation to continue work on the Services and all ownership and intellectual-property rights related to Contractor's work product shall belong solely to Contractor and Contractor shall be under no obligation to deliver any such work product to Company.  This paragraph shall not limit Contractors other remedies in the case of default.
+ 
+8.     COSTS OF COLLECTION. The Company shall pay to Contractor all reasonable costs, including court costs and attorney fees, that Contractor may incur to collect any amounts that the Company fails to pay under paragraph 2 of this Agreement.
+ 
+9.     NO CONFLICTS. Contractor hereby represents and warrants to Company that its execution and performance of this Agreement does not and will not breach any other agreement and does not require the consent of any other person or entity.
+  
+10.  ENTIRE AGREEMENT. This Agreement constitutes the entire contract between the parties. All terms and conditions contained in any other writings previously executed by the parties regarding the matters contemplated herein shall be deemed to be merged herein and superseded hereby. No modification of this Agreement shall be deemed effective unless in writing and signed by the parties hereto.
+  
+11.  WAIVER OF BREACH. The waiver by Company of a breach of any provision of this Agreement by Contractor shall not operate or be construed as a waiver of any subsequent breach by Contractor.
+  
+12.  SEVERABILITY. If any provision of this Agreement shall be held to be invalid or unenforceable for any reason, the remaining provisions shall continue to be valid and enforceable. If a court finds that any provision of this Agreement is invalid or unenforceable, but that by limiting such provision it would become valid and enforceable, then such provision shall be deemed to be written, construed, and enforced as so limited.
+  
+13.  APPLICABLE LAW. This Agreement shall be governed by the laws of the State of YOURSTATE. The parties consent the jurisdiction of the federal and state courts in the state of Minnesota for any disputes relating in any way to the subject matter of the Agreement.  The parties also consent to venue in the federal and state courts located in YOUR COUNTY County in the state of YOURSTATE for any disputes relating in any way to the subject matter of the Agreement.
+  
+14.  SIGNATORIES. This Agreement shall be signed by _________________ on behalf of _________________ and by You, Title  on behalf of Your Company.. This Agreement is effective as of the date first above written.
+ 
+ 
+ 
+COMPANY:
+_________________
+ 
+ 
+ 
+By:  	____________________________________________________
+_________________
+ 
+ 
+ 
+CONTRACTOR:
+Your Company
+ 
+ 
+ 
+By:  	____________________________________________________
+Your Name
+Title
